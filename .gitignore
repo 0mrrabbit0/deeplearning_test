@@ -25,13 +25,9 @@ Thumbs.db
 # Project specific
 *.log
 
-# Generated data and visualizations
-*.csv
+# Generated visualizations (but keep data)
 *.png
 *.jpg
 *.jpeg
 *.pdf
-
-# Dataset directories
-**/data/
-**/datasets/
+*.csv
