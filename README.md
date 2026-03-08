@@ -11,6 +11,10 @@ deeplearning_test/
 │   ├── linear_regression_data_generation.py
 │   ├── linear_regression_train.py
 │   └── linear_regression_train_concise.py
+├── chapter3_softmax_regression/     # 第3章：Softmax回归
+│   ├── README.md                    # 本章详细说明
+│   ├── softmax_regression.py        # Softmax回归完整实现
+│   └── data/                        # Fashion-MNIST数据集（.gitignore）
 ├── .gitignore
 └── README.md
 ```
@@ -18,8 +22,8 @@ deeplearning_test/
 ## 章节列表
 
 - **[Chapter 3: 线性回归](chapter3_linear_regression/)** - 线性回归模型、梯度下降、自动微分
-- Chapter 4: Softmax回归 _(待添加)_
-- Chapter 5: 多层感知机 _(待添加)_
+- **[Chapter 3: Softmax回归](chapter3_softmax_regression/)** - 多分类、Softmax函数、交叉熵损失、Fashion-MNIST
+- Chapter 4: 多层感知机 _(待添加)_
 - 更多章节持续更新...
 
 ## 环境依赖

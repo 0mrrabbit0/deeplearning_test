@@ -31,3 +31,7 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.pdf
+
+# Dataset directories
+**/data/
+**/datasets/
